@@ -13,7 +13,7 @@
         android:layout_width="185dp"
         android:layout_height="72dp"
         android:fontFamily="@font/bilbo_swash_caps"
-        android:text="@string/ru_cafe"
+        android:text="@string/cozy_cafe"
         android:textColor="@color/white"
         android:textSize="48sp"
         android:textStyle="bold"
