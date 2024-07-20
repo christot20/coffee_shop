@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">project5</string>
+    <string name="ru_cafe">RU Cafe</string>
+    <string name="mocha">Mocha</string>
+    <string name="caramel">Caramel</string>
+    <string name="french_vanilla">French Vanilla</string>
+    <string name="irish_cream">Irish Cream</string>
+    <string name="sweet_cream">Sweet Cream</string>
+    <string name="short_size">Short</string>
+    <string name="tall_size">Tall</string>
+    <string name="grande_size">Grande</string>
+    <string name="venti_size">Venti</string>
+    <string name="lettuce">Lettuce</string>
+    <string name="tomato">Tomato</string>
+    <string name="cheese">Cheese</string>
+    <string name="onion">Onion</string>
+    <string name="beef">Beef</string>
+    <string name="fish">Fish</string>
+    <string name="chicken">Chicken</string>
+    <string name="bagel">Bagel</string>
+    <string name="wheat_toast">Wheat Toast</string>
+    <string name="sour_dough">Sour Dough</string>
+    <string name="total">Total:</string>
+    <string name="add_to_order">Add to Order</string>
+    <string name="current_order">Current Order</string>
+    <string name="all_orders">All Orders</string>
+    <string name="confirm_order">Confirm Order</string>
+    <string name="remove_order">Cancel Order</string>
+    <string name="select_quant">Select Quantity</string>
+    <string name="plus">+</string>
+    <string name="subtotal">Subtotal:</string>
+    <string name="ordertotal">Total:</string>
+    <string name="tax">Tax:</string>
+    <string name="selected_donut">Selected Donut</string>
+    <string name="price_zero">Price: $0.00</string>
+</resources>
